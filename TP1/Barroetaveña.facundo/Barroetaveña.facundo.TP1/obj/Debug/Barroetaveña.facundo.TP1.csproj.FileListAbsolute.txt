@@ -1,0 +1,6 @@
+C:\Users\Facu\Desktop\programazao\Programacion 2\TP1\Barroetaveña.facundo\Barroetaveña.facundo.TP1\bin\Debug\Barroetaveña.facundo.TP1.exe.config
+C:\Users\Facu\Desktop\programazao\Programacion 2\TP1\Barroetaveña.facundo\Barroetaveña.facundo.TP1\bin\Debug\Barroetaveña.facundo.TP1.exe
+C:\Users\Facu\Desktop\programazao\Programacion 2\TP1\Barroetaveña.facundo\Barroetaveña.facundo.TP1\bin\Debug\Barroetaveña.facundo.TP1.pdb
+C:\Users\Facu\Desktop\programazao\Programacion 2\TP1\Barroetaveña.facundo\Barroetaveña.facundo.TP1\obj\Debug\Barroetaveña.facundo.TP1.csprojResolveAssemblyReference.cache
+C:\Users\Facu\Desktop\programazao\Programacion 2\TP1\Barroetaveña.facundo\Barroetaveña.facundo.TP1\obj\Debug\Barroetaveña.facundo.TP1.exe
+C:\Users\Facu\Desktop\programazao\Programacion 2\TP1\Barroetaveña.facundo\Barroetaveña.facundo.TP1\obj\Debug\Barroetaveña.facundo.TP1.pdb

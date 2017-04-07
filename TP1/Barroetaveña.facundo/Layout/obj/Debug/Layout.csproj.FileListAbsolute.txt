@@ -1,0 +1,11 @@
+C:\Users\Facu\Desktop\programazao\Programacion 2\TP1\Barroetaveña.facundo\Layout\bin\Debug\Layout.exe.config
+C:\Users\Facu\Desktop\programazao\Programacion 2\TP1\Barroetaveña.facundo\Layout\bin\Debug\Layout.exe
+C:\Users\Facu\Desktop\programazao\Programacion 2\TP1\Barroetaveña.facundo\Layout\bin\Debug\Layout.pdb
+C:\Users\Facu\Desktop\programazao\Programacion 2\TP1\Barroetaveña.facundo\Layout\obj\Debug\Layout.csprojResolveAssemblyReference.cache
+C:\Users\Facu\Desktop\programazao\Programacion 2\TP1\Barroetaveña.facundo\Layout\obj\Debug\Layout.Form1.resources
+C:\Users\Facu\Desktop\programazao\Programacion 2\TP1\Barroetaveña.facundo\Layout\obj\Debug\Layout.Properties.Resources.resources
+C:\Users\Facu\Desktop\programazao\Programacion 2\TP1\Barroetaveña.facundo\Layout\obj\Debug\Layout.csproj.GenerateResource.Cache
+C:\Users\Facu\Desktop\programazao\Programacion 2\TP1\Barroetaveña.facundo\Layout\obj\Debug\Layout.exe
+C:\Users\Facu\Desktop\programazao\Programacion 2\TP1\Barroetaveña.facundo\Layout\obj\Debug\Layout.pdb
+C:\Users\Facu\Desktop\programazao\Programacion 2\TP1\Barroetaveña.facundo\Layout\bin\Debug\Entidades.dll
+C:\Users\Facu\Desktop\programazao\Programacion 2\TP1\Barroetaveña.facundo\Layout\bin\Debug\Entidades.pdb

@@ -1,0 +1,5 @@
+C:\Users\Facu\Desktop\programazao\Programacion 2\TP1\Barroetaveña.facundo\Entidades\bin\Debug\Entidades.dll
+C:\Users\Facu\Desktop\programazao\Programacion 2\TP1\Barroetaveña.facundo\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Facu\Desktop\programazao\Programacion 2\TP1\Barroetaveña.facundo\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Facu\Desktop\programazao\Programacion 2\TP1\Barroetaveña.facundo\Entidades\obj\Debug\Entidades.dll
+C:\Users\Facu\Desktop\programazao\Programacion 2\TP1\Barroetaveña.facundo\Entidades\obj\Debug\Entidades.pdb
