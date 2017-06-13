@@ -1,7 +1,0 @@
-C:\Users\Facu\Desktop\TP-03\Barroetaveña.Facundo.2D.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.dll
-C:\Users\Facu\Desktop\TP-03\Barroetaveña.Facundo.2D.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.pdb
-C:\Users\Facu\Desktop\TP-03\Barroetaveña.Facundo.2D.TP3\EntidadesAbstractas\bin\Debug\Excepciones.dll
-C:\Users\Facu\Desktop\TP-03\Barroetaveña.Facundo.2D.TP3\EntidadesAbstractas\bin\Debug\Excepciones.pdb
-C:\Users\Facu\Desktop\TP-03\Barroetaveña.Facundo.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
-C:\Users\Facu\Desktop\TP-03\Barroetaveña.Facundo.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.dll
-C:\Users\Facu\Desktop\TP-03\Barroetaveña.Facundo.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb
