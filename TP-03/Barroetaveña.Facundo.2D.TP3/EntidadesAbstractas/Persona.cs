@@ -58,19 +58,7 @@ namespace EntidadesAbstractas
         {
             set
             {
-                //try
-                //{
-                this.DNI = this.ValidarDni(this.Nacionalidad, value);
-                //}
-                //catch (NacionalidadInvalidaException ex)
-                //{
-                //    //throw new NacionalidadInvalidaException();
-                //    Console.WriteLine(ex.Message);
-                //}
-                //catch (DniInvalidoException ex)
-                //{
-                //    /*throw new DniInvalidoException*/Console.WriteLine(ex.Message);
-                //}                
+                this.DNI = this.ValidarDni(this.Nacionalidad, value);            
             }
         }
 
@@ -126,7 +114,7 @@ namespace EntidadesAbstractas
                 if (dato > 90000000)
                 {
                     if (nacionalidad == ENacionalidad.Argentino)
-                        throw new DniInvalidoException("El numero exede al maximo permitido.");
+                        throw new NacionalidadInvalidaException("El numero exede al maximo permitido.");
                 }
                 else if (nacionalidad == ENacionalidad.Extranjero)
                     throw new NacionalidadInvalidaException("La nacionalidad no coincide con el número de DNI");
@@ -162,7 +150,7 @@ namespace EntidadesAbstractas
         {
             Regex reg = new Regex(@"[^a-zA-ZñÑ]");
 
-            if (!reg.IsMatch(dato))
+            if ((dato != null) && (!reg.IsMatch(dato)))
                 return dato;
 
             return "";

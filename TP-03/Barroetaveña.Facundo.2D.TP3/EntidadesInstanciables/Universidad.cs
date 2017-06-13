@@ -239,11 +239,16 @@ namespace EntidadesInstanciables
         /// <returns></returns>
         public static bool Guardar(Universidad gim)
         {
-            Xml<Universidad> xmlUni = new Xml<Universidad>();
-            if (xmlUni.guardar("Universidad.xml", gim))
+            try
+            {
+                Xml<Universidad> xmlUni = new Xml<Universidad>();
+                xmlUni.guardar("Universidad.xml", gim);
                 return true;
-
-            return false;
+            }
+            catch (Exception e)
+            {
+                throw new ArchivosException(e);
+            }
         }
 
         /// <summary>

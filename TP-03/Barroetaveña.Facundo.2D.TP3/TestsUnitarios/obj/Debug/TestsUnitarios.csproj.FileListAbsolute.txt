@@ -11,3 +11,16 @@ C:\Users\Facu\Desktop\TP-03\Barroetaveña.Facundo.2D.TP3\TestsUnitarios\bin\Debu
 C:\Users\Facu\Desktop\TP-03\Barroetaveña.Facundo.2D.TP3\TestsUnitarios\obj\Debug\TestsUnitarios.csprojResolveAssemblyReference.cache
 C:\Users\Facu\Desktop\TP-03\Barroetaveña.Facundo.2D.TP3\TestsUnitarios\obj\Debug\TestsUnitarios.dll
 C:\Users\Facu\Desktop\TP-03\Barroetaveña.Facundo.2D.TP3\TestsUnitarios\obj\Debug\TestsUnitarios.pdb
+C:\Users\Facu\Documents\GitHub\tp_laboratorio_2\TP-03\Barroetaveña.Facundo.2D.TP3\TestsUnitarios\bin\Debug\TestsUnitarios.dll
+C:\Users\Facu\Documents\GitHub\tp_laboratorio_2\TP-03\Barroetaveña.Facundo.2D.TP3\TestsUnitarios\bin\Debug\TestsUnitarios.pdb
+C:\Users\Facu\Documents\GitHub\tp_laboratorio_2\TP-03\Barroetaveña.Facundo.2D.TP3\TestsUnitarios\bin\Debug\Archivos.dll
+C:\Users\Facu\Documents\GitHub\tp_laboratorio_2\TP-03\Barroetaveña.Facundo.2D.TP3\TestsUnitarios\bin\Debug\EntidadesAbstractas.dll
+C:\Users\Facu\Documents\GitHub\tp_laboratorio_2\TP-03\Barroetaveña.Facundo.2D.TP3\TestsUnitarios\bin\Debug\EntidadesInstanciables.dll
+C:\Users\Facu\Documents\GitHub\tp_laboratorio_2\TP-03\Barroetaveña.Facundo.2D.TP3\TestsUnitarios\bin\Debug\Excepciones.dll
+C:\Users\Facu\Documents\GitHub\tp_laboratorio_2\TP-03\Barroetaveña.Facundo.2D.TP3\TestsUnitarios\bin\Debug\Archivos.pdb
+C:\Users\Facu\Documents\GitHub\tp_laboratorio_2\TP-03\Barroetaveña.Facundo.2D.TP3\TestsUnitarios\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\Facu\Documents\GitHub\tp_laboratorio_2\TP-03\Barroetaveña.Facundo.2D.TP3\TestsUnitarios\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\Facu\Documents\GitHub\tp_laboratorio_2\TP-03\Barroetaveña.Facundo.2D.TP3\TestsUnitarios\bin\Debug\Excepciones.pdb
+C:\Users\Facu\Documents\GitHub\tp_laboratorio_2\TP-03\Barroetaveña.Facundo.2D.TP3\TestsUnitarios\obj\Debug\TestsUnitarios.csprojResolveAssemblyReference.cache
+C:\Users\Facu\Documents\GitHub\tp_laboratorio_2\TP-03\Barroetaveña.Facundo.2D.TP3\TestsUnitarios\obj\Debug\TestsUnitarios.dll
+C:\Users\Facu\Documents\GitHub\tp_laboratorio_2\TP-03\Barroetaveña.Facundo.2D.TP3\TestsUnitarios\obj\Debug\TestsUnitarios.pdb

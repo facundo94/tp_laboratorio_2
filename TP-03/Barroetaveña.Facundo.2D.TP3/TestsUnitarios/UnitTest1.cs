@@ -24,11 +24,23 @@ namespace TestsUnitarios
         }
 
         /// <summary>
-        /// Testea la excepcion DniInvalidoException en caso de que el dni ingresado sea mayor a 89999999 y nacionalida
-        /// sea 'Argentino'
+        /// Testea la excepcion DniInvalidoException en caso de que el dni ingresado contenga letras 
         /// </summary>
         [TestMethod]
         [ExpectedException(typeof(DniInvalidoException))]
+        public void DNI_Letras()
+        {
+            Alumno p = new Alumno(4, "Miguel", "Hernandez", "12asd12",
+           EntidadesAbstractas.Persona.ENacionalidad.Argentino, Universidad.ECLases.Legislacion,
+           Alumno.EEstadoCuenta.AlDia);
+        }
+
+        /// <summary>
+        /// Testea la excepcion DniInvalidoException en caso de que el dni ingresado sea mayor a 89999999 y nacionalidad
+        /// sea 'Argentino'
+        /// </summary>
+        [TestMethod]
+        [ExpectedException(typeof(NacionalidadInvalidaException))]
         public void DNI_Alto()
         {
             Alumno p = new Alumno(4, "Miguel", "Hernandez", "92264456",
@@ -78,5 +90,19 @@ namespace TestsUnitarios
             g += a1;
             g += a2;
         }
+
+        /// <summary>
+        /// Testea que las propiedades de una Universidad no sean null.
+        /// </summary>
+        [TestMethod]
+        public void Universidad_Propiedades_NotNull()
+        {
+            Universidad g = new Universidad();
+            //g.Profesores = null; //Ejemplo en el que la test fallaria
+
+            if ((g.Alumnos == null) || (g.Jornadas == null) || (g.Profesores == null))
+                Assert.Fail();
+        }
+                
     }
 }

@@ -5,3 +5,10 @@ C:\Users\Facu\Desktop\TP-03\Barroetaveña.Facundo.2D.TP3\Archivos\bin\Debug\Exce
 C:\Users\Facu\Desktop\TP-03\Barroetaveña.Facundo.2D.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
 C:\Users\Facu\Desktop\TP-03\Barroetaveña.Facundo.2D.TP3\Archivos\obj\Debug\Archivos.dll
 C:\Users\Facu\Desktop\TP-03\Barroetaveña.Facundo.2D.TP3\Archivos\obj\Debug\Archivos.pdb
+C:\Users\Facu\Documents\GitHub\tp_laboratorio_2\TP-03\Barroetaveña.Facundo.2D.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\Facu\Documents\GitHub\tp_laboratorio_2\TP-03\Barroetaveña.Facundo.2D.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Facu\Documents\GitHub\tp_laboratorio_2\TP-03\Barroetaveña.Facundo.2D.TP3\Archivos\bin\Debug\Excepciones.dll
+C:\Users\Facu\Documents\GitHub\tp_laboratorio_2\TP-03\Barroetaveña.Facundo.2D.TP3\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\Facu\Documents\GitHub\tp_laboratorio_2\TP-03\Barroetaveña.Facundo.2D.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\Facu\Documents\GitHub\tp_laboratorio_2\TP-03\Barroetaveña.Facundo.2D.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\Facu\Documents\GitHub\tp_laboratorio_2\TP-03\Barroetaveña.Facundo.2D.TP3\Archivos\obj\Debug\Archivos.pdb
