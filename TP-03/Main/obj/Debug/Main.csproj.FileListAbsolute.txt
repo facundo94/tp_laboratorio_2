@@ -1,0 +1,14 @@
+C:\Users\Facu\Desktop\TP-03\Barroetaveña.Facundo.2D.TP3\Main\bin\Debug\Main.exe.config
+C:\Users\Facu\Desktop\TP-03\Barroetaveña.Facundo.2D.TP3\Main\bin\Debug\Main.exe
+C:\Users\Facu\Desktop\TP-03\Barroetaveña.Facundo.2D.TP3\Main\bin\Debug\Main.pdb
+C:\Users\Facu\Desktop\TP-03\Barroetaveña.Facundo.2D.TP3\Main\bin\Debug\Archivos.dll
+C:\Users\Facu\Desktop\TP-03\Barroetaveña.Facundo.2D.TP3\Main\bin\Debug\EntidadesAbstractas.dll
+C:\Users\Facu\Desktop\TP-03\Barroetaveña.Facundo.2D.TP3\Main\bin\Debug\EntidadesInstanciables.dll
+C:\Users\Facu\Desktop\TP-03\Barroetaveña.Facundo.2D.TP3\Main\bin\Debug\Excepciones.dll
+C:\Users\Facu\Desktop\TP-03\Barroetaveña.Facundo.2D.TP3\Main\bin\Debug\Archivos.pdb
+C:\Users\Facu\Desktop\TP-03\Barroetaveña.Facundo.2D.TP3\Main\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\Facu\Desktop\TP-03\Barroetaveña.Facundo.2D.TP3\Main\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\Facu\Desktop\TP-03\Barroetaveña.Facundo.2D.TP3\Main\bin\Debug\Excepciones.pdb
+C:\Users\Facu\Desktop\TP-03\Barroetaveña.Facundo.2D.TP3\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\Facu\Desktop\TP-03\Barroetaveña.Facundo.2D.TP3\Main\obj\Debug\Main.exe
+C:\Users\Facu\Desktop\TP-03\Barroetaveña.Facundo.2D.TP3\Main\obj\Debug\Main.pdb
