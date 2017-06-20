@@ -109,12 +109,14 @@
             this.historialToolStripMenuItem.Name = "historialToolStripMenuItem";
             this.historialToolStripMenuItem.Size = new System.Drawing.Size(63, 20);
             this.historialToolStripMenuItem.Text = "Historial";
+            this.historialToolStripMenuItem.Click += new System.EventHandler(this.historialToolStripMenuItem_Click);
             // 
             // mostrarTodoElHistorialToolStripMenuItem
             // 
             this.mostrarTodoElHistorialToolStripMenuItem.Name = "mostrarTodoElHistorialToolStripMenuItem";
             this.mostrarTodoElHistorialToolStripMenuItem.Size = new System.Drawing.Size(202, 22);
             this.mostrarTodoElHistorialToolStripMenuItem.Text = "Mostrar todo el Historial";
+            this.mostrarTodoElHistorialToolStripMenuItem.Click += new System.EventHandler(this.mostrarTodoElHistorialToolStripMenuItem_Click);
             // 
             // frmWebBrowser
             // 

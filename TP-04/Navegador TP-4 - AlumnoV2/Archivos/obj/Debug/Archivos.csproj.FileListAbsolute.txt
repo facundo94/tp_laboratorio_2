@@ -11,3 +11,7 @@ D:\Federico\VB .Net\Visual C#\utn\TP-4\Navegador TP-4\Archivos\obj\Debug\Archivo
 D:\Federico\VB .Net\Visual C#\utn\TP-4\Navegador TP-4\Archivos\bin\Debug\Archivos.dll
 D:\Federico\VB .Net\Visual C#\utn\TP-4\Navegador TP-4\Archivos\bin\Debug\Archivos.pdb
 C:\Users\Facu\Desktop\TPs\TP-04\Navegador TP-4 - AlumnoV2\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\Facu\Desktop\TPs\TP-04\Navegador TP-4 - AlumnoV2\Archivos\bin\Debug\Archivos.dll
+C:\Users\Facu\Desktop\TPs\TP-04\Navegador TP-4 - AlumnoV2\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Facu\Desktop\TPs\TP-04\Navegador TP-4 - AlumnoV2\Archivos\obj\Debug\Archivos.dll
+C:\Users\Facu\Desktop\TPs\TP-04\Navegador TP-4 - AlumnoV2\Archivos\obj\Debug\Archivos.pdb

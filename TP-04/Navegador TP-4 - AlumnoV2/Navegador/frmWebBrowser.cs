@@ -12,6 +12,7 @@ using System.Threading;
 using Hilo;
 using System.Net;
 using System.IO;
+using System.Text.RegularExpressions;
 
 namespace Navegador
 {
@@ -92,24 +93,52 @@ namespace Navegador
             }
         }
 
+        /// <summary>
+        /// Completa el url con 'htttp://' en caso de ser neceario, y se descarga el codigo fuente de la pagina web indicada.
+        /// Las direcciones de las paginas se guardan en un archivo de texto
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void btnIr_Click(object sender, EventArgs e)
         {
             try
             {
-                Descargador ds = new Descargador(new Uri(this.txtUrl.Text));
+                Regex reg = new Regex(@"^[Hh]ttp://");
+                if (!reg.IsMatch(txtUrl.Text))
+                {
+                    txtUrl.Text = "http://" + txtUrl.Text;
+                }
 
+                Descargador ds = new Descargador(new Uri(this.txtUrl.Text));
                 ds.enProgreso += new Descargador.EnProgreso(this.ProgresoDescarga);
                 ds.completo += new Descargador.Completo(this.FinDescarga);
 
                 Thread hilo = new Thread(ds.IniciarDescarga);
                 hilo.Start();
-            
+
+                archivos.guardar(this.txtUrl.Text);
             }
             catch (Exception ex)
             {
                 MessageBox.Show(ex.Message);
             }
-
         }
+
+        private void historialToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+        }
+
+        /// <summary>
+        /// Lee desde un archivo de texto y muesta la lista completa de sitios visitados
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void mostrarTodoElHistorialToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmHistorial historial = new frmHistorial();
+            historial.ShowDialog();
+        }
+
+        
     }
 }

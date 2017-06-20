@@ -11,14 +11,13 @@ using System.Security.Permissions;
 namespace Hilo
 {
     public class Descargador
-    {
+    {        
+        private string html;
+        private Uri direccion;
         public delegate void EnProgreso(int progreso);
         public event EnProgreso enProgreso;
         public delegate void Completo(string datos);
         public event Completo completo;
-
-        private string html;
-        private Uri direccion;
 
         public Descargador(Uri direccion)
         {
@@ -35,8 +34,7 @@ namespace Hilo
                 cliente.DownloadProgressChanged += new DownloadProgressChangedEventHandler(WebClientDownloadProgressChanged);
                 cliente.DownloadStringCompleted += new DownloadStringCompletedEventHandler(WebClientDownloadCompleted);
 
-                cliente.DownloadStringAsync(direccion, html);
-                
+                cliente.DownloadStringAsync(direccion, html);                
             }
             catch (Exception e)
             {
@@ -50,15 +48,7 @@ namespace Hilo
         }
         private void WebClientDownloadCompleted(object sender, DownloadStringCompletedEventArgs e)
         {
-            try
-            {
-                this.html = e.Result;
-            }
-            catch (Exception)
-            {
-                throw;
-            }
-
+            this.html = e.Result;            
             this.completo(this.html);
         }
     }
